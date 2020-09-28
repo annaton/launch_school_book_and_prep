@@ -1,0 +1,1 @@
+let myObj = Object.create(myProtoObj);
